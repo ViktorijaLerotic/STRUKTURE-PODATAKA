@@ -1,9 +1,0 @@
-Mate	Matic	80
-Ivo	Ivic	50
-Ana	Anic	65
-Jakov	Jakic	90
-Mia	Mijic	50
-Petra	Peric	38
-Pero	Peric	62
-Matko	Maric	90
-Karlo	Karlic	72
